@@ -2,7 +2,7 @@
 
 . ./scripts/try.sh
 
-USERNAME="rodri042"
+USERNAME="afska"
 REPO_NAME="jeringozo"
 
 TOKEN="$1"
